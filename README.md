@@ -1,19 +1,52 @@
-**Financial Learning Hub** – A space where users can learn about finance, including investment strategies, taxation, and economic trends.
+CodeSync 🚀
+A real-time collaborative coding platform with video, audio, chat, and a drawing board.
 
-**Collaborative Code Editor** – An inbuilt **IDE for writing smart contracts and financial tools**, allowing users to develop, test, and deploy finance-related applications.
+🌟 Features
+✅ Live Code Editor – Edit code together in real time.
+✅ Video & Audio Calls – Communicate while coding.
+✅ Chat System – Send messages instantly.
+✅ Collaborative Whiteboard – Sketch and brainstorm ideas.
+✅ Multi-Language Support – Write code in multiple programming languages.
 
-**Pre-built Financial Tools** – The platform provides ready-to-use tools for:
+🛠️ Tech Stack
+Frontend:
 
-- Loan interest calculations
-- Tax estimations
-- Gold price tracking
-- Other financial predictions
-**API for External Use** – Other platforms can integrate these financial tools via **API access**, expanding their reach and usability.
+React.js
+Monaco Editor / CodeMirror
 
-**Price Drop Estimator** – Users can track and predict price drops for products on **e-commerce platforms** like Amazon, helping them make informed purchasing decisions.
+WebRTC (Video & Audio)
 
-**Custom Tool Development & Marketplace** – Users can:
+Fabric.js (Drawing Board)
 
-- **Develop** financial tools within the platform using the inbuilt IDE.
-- **Sell** their tools to other users or external platforms.
-- **Monetize** their work by licensing tools, making it a **marketplace for financial solutions**.
+Socket.io (Real-time communication)
+
+Backend:
+
+Node.js + Express
+
+Socket.io (WebSockets)
+
+Firebase Firestore / PostgreSQL (Database)
+
+WebRTC Signaling Server
+
+🚀 Getting Started
+1️⃣ Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/codesync.git
+cd codesync
+2️⃣ Install Dependencies
+npm install  # or yarn install
+3️⃣ Run the Development Server
+npm run dev  # or yarn dev
+Open http://localhost:3000 in your browser.
+
+🤝 Contributing
+Contributions are welcome! Fork the repo, make changes, and submit a pull request.
+
+📜 License
+MIT License
+
+This is a solid starting point. Let me know if you want to tweak it! 🚀
