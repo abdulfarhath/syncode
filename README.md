@@ -2,6 +2,8 @@ CodeSync 🚀
 A real-time collaborative coding platform with video, audio, chat, and a drawing board.
 
 🌟 Features
+
+
 ✅ Live Code Editor – Edit code together in real time.
 ✅ Video & Audio Calls – Communicate while coding.
 ✅ Chat System – Send messages instantly.
